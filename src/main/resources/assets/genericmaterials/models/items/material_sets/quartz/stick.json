@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "genericmaterials:items/material_sets/quartz/stick"
+    }
+}

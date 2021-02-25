@@ -1,0 +1,16 @@
+{
+  "itemGroup.genericmaterials_group": "Generic Materials",
+
+  "material.red_metal": "Red Metal",
+  "material.yellow_metal": "Yellow Metal",
+  "material.blue_metal": "Blue Metal",
+
+  "part.ingot": "%s Ingot",
+  "part.plate": "%s Plate",
+  "part.rod": "%s Rod",
+  "part.dust": "%s Dust",
+  "part.dust_small": "Small Pile of %s Dust",
+  "part.dust_tiny": "Tiny Pile of %s Dust",
+  "part.dust_impure": "Impure Pile of %s Dust",
+  "part.dust_pure": "Pure Pile of %s Dust"
+}

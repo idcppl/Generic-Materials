@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "genericmaterials:items/material_sets/metallic/dust_impure",
+        "layer1": "genericmaterials:items/material_sets/metallic/dust_impure_overlay"
+    }
+}

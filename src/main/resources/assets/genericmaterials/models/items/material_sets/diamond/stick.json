@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "genericmaterials:items/material_sets/diamond/stick",
+        "layer1": "genericmaterials:items/material_sets/diamond/stick_overlay"
+    }
+}
